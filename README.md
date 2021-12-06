@@ -10,4 +10,8 @@ chat bot using AI and sentimental analysis and login page with database
   3. IN MYSQL WE NEED TO CREATE DATABASE NAME chatbot and table name chatbot1
  
 ![Screenshot (241)](https://user-images.githubusercontent.com/91406189/144801648-52fccf0b-f302-4fa7-baad-9c9904557da5.png)
-with this discription the table need create table\
+with this discription the table need create table
+
+
+
+---------------------------------------------this project done by REVELLA SUNIL-------------------------------------
